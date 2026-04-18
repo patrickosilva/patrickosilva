@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Patrick
 
-<!--
-**patrickosilva/patrickosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🔐 Cyber Security Student (Pentest)
 
-Here are some ideas to get you started:
+I build web and mobile applications and I'm currently transitioning into cybersecurity, focusing on offensive security and real-world vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Flutter / Dart  
+- JavaScript / Node.js  
+- Firebase  
+- Git & GitHub  
+
+---
+
+## 🔐 Cyber Security Journey
+- Studying Pentesting  
+- Learning OWASP Top 10  
+- Practicing labs and real-world scenarios  
+
+---
+
+## 📂 Featured Projects
+- 🔗 Project 1 
+- 🔗 Project 2 
+- 🔗 Project 3
+
+---
+
+## 📫 Contact
+- LinkedIn: 
+- Email: 
+
