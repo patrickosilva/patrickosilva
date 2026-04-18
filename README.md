@@ -23,13 +23,13 @@ I build web and mobile applications and I'm currently transitioning into cyberse
 ---
 
 ## 📂 Featured Projects
-- 🔗 Project 1 
-- 🔗 Project 2 
-- 🔗 Project 3
+- 🔗 Project 1: ...
+- 🔗 Project 2: ...
+- 🔗 Project 3: ...
 
 ---
 
 ## 📫 Contact
-- LinkedIn: 
-- Email: 
+- LinkedIn: https://www.linkedin.com/in/patrick-oliveira-25729a3b3/
+- Email: ...
 
