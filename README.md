@@ -62,7 +62,7 @@ Scheduling management system developed for a real business, including appointmen
 
 ---
 
-### 🔹 [Bonelli](BONELLI_REPOSITORY_URL)
+### 🔹 [Bonelli](https://github.com/SamuraiMaluco/bonelli)
 Cross-platform application developed with **Flutter and Dart** for personal trainers and students, featuring different user profiles and backend integration.
 
 `Flutter` `Dart` `API Integration` `Cross-platform`
