@@ -48,17 +48,43 @@ Before transitioning into technology, I served as a career member of the **Brazi
 
 ## 🚀 Featured Projects
 
-### Conquizz
+### 🔹 [Conquizz](CONQUIZZ_REPOSITORY_URL)
+Full Stack platform for competitive exam preparation, featuring question banks, filters, performance tracking, administrative tools and user management.
 
-Full Stack platform designed for competitive exam preparation, featuring question banks, filtering systems, performance tracking, administrative tools, and user management.
+`Full Stack` `REST API` `Database` `Authentication`
 
-### Studio RD Barber
+---
 
-Scheduling management system developed for a barbershop, featuring appointment management, **PostgreSQL**, administrative tools, and automated email notifications for clients and barbers.
+### 🔹 [Studio RD Barber](### 🔹 [Conquizz](CONQUIZZ_REPOSITORY_URL)
+Full Stack platform for competitive exam preparation, featuring question banks, filters, performance tracking, administrative tools and user management.
 
-### Bonelli
+`Full Stack` `REST API` `Database` `Authentication`
 
-Cross-platform application developed with **Flutter and Dart** for personal trainers and students, featuring dedicated user flows and integration with backend services.
+---
+
+### 🔹 [Studio RD Barber](BARBER_REPOSITORY_URL)
+Scheduling management system developed for a real business, including appointment management, PostgreSQL integration and automated email notifications for clients and barbers.
+
+`Full Stack` `PostgreSQL` `SMTP` `REST API`
+
+---
+
+### 🔹 [Bonelli](BONELLI_REPOSITORY_URL)
+Cross-platform application developed with **Flutter and Dart** for personal trainers and students, featuring different user profiles and backend integration.
+
+`Flutter` `Dart` `API Integration` `Cross-platform`
+
+---)
+Scheduling management system developed for a real business, including appointment management, PostgreSQL integration and automated email notifications for clients and barbers.
+
+`Full Stack` `PostgreSQL` `SMTP` `REST API`
+
+---
+
+### 🔹 [Bonelli](BONELLI_REPOSITORY_URL)
+Cross-platform application developed with **Flutter and Dart** for personal trainers and students, featuring different user profiles and backend integration.
+
+`Flutter` `Dart` `API Integration` `Cross-platform`
 
 ---
 
