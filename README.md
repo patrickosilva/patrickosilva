@@ -89,6 +89,13 @@ Cross-platform application developed with **Flutter and Dart** for personal trai
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
+</p>
+
 ## 📫 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/patrickosilva/)
