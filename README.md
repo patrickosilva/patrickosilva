@@ -48,7 +48,7 @@ Before transitioning into technology, I served as a career member of the **Brazi
 
 ## 🚀 Featured Projects
 
-### 🔹 [Conquizz](CONQUIZZ_REPOSITORY_URL)
+### 🔹 [Conquizz](https://github.com/SamuraiMaluco/questions_flutter)
 Full Stack platform for competitive exam preparation, featuring question banks, filters, performance tracking, administrative tools and user management.
 
 `Full Stack` `REST API` `Database` `Authentication`
