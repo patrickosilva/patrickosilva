@@ -55,7 +55,7 @@ Full Stack platform for competitive exam preparation, featuring question banks, 
 
 ---
 
-### 🔹 [Studio RD Barber](BARBER_REPOSITORY_URL)
+### 🔹 [Studio RD Barber](https://github.com/patrickosilva/studio-rd-canvas)
 Scheduling management system developed for a real business, including appointment management, PostgreSQL integration and automated email notifications for clients and barbers.
 
 `Full Stack` `PostgreSQL` `SMTP` `REST API`
